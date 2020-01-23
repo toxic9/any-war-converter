@@ -2,5 +2,5 @@
 Type=Application
 Terminal=false
 Name[en_US]=any_war_converter_v3.2.0
-Path=/home/sgomes/Downloads/Test/
-Exec=/home/sgomes/Downloads/Test/any_war_converter_v3.2.0.sh
+Path=/home/user/
+Exec=/home/user/any_war_converter_v3.2.0.sh

@@ -19,8 +19,8 @@ Ex.:
     Type=Application
     Terminal=false
     Name[en_US]=any_war_converter_vX.X.X
-    Path=/home/user/Downloads/Test/
-    Exec=/home/user/Downloads/Test/any_war_converter_vX.X.X
+    Path=/home/user/
+    Exec=/home/user/any_war_converter_vX.X.X
 
 - Colocar os ficheiros a converter, na mesma diretoria da aplicação.
 
