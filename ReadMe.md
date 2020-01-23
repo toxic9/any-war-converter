@@ -11,6 +11,17 @@ ___
 
 ###Funcionamento:
 
+- Editar o ficheiro `any_war_converter_vX.X.X.desktop` de forma a que a working directory (`Path`) e o caminho para o binário (`Exec`) correspondam.
+
+Ex.:
+
+    [Desktop Entry]
+    Type=Application
+    Terminal=false
+    Name[en_US]=any_war_converter_vX.X.X
+    Path=/home/user/Downloads/Test/
+    Exec=/home/user/Downloads/Test/any_war_converter_vX.X.X
+
 - Colocar os ficheiros a converter, na mesma diretoria da aplicação.
 
 ###Ficheiros suportados:
