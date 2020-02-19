@@ -58,7 +58,7 @@ A opção **TODOS** converte para todas as dependências Synçab ao mesmo tempo!
 
 ###Converter para ambiente não Dockerizado (Outros clientes):
 
-- No menu principal, escolher a opção **DOCKER (For Fast Autodeploy).
+- No menu principal, escolher a opção **DOCKER (For Fast Autodeploy)**.
 
 - Escolher a versão do Docker instalada: **Single Container** ou o novo modelo **Frontend + Backend** preparado para cluster.
 
@@ -85,7 +85,7 @@ Para a personalização do Cas, a aplicação necessitará de utilizar o ficheir
 
 ###Reverter um ficheiro War para o seu formato original (por defeito):
 
-- No menu principal, escolher a opção **RESET (Undo All).
+- No menu principal, escolher a opção **RESET (Undo All)**.
 
 - O ficheiro será revertido para o seu estado original, anterior às modificações.
 
@@ -97,8 +97,11 @@ Para a personalização do Cas, a aplicação necessitará de utilizar o ficheir
 
 - Caso essa verificação falhe em algum ponto, os ficheiros serão automáticamente movidos para uma directoria **Corrupted**.
 
-- Por último, os ficheiros com nomes inválios, ou não reconhecidos pela aplicação, serão movidos para ua directoria **Unknown**.
+- Por último, os ficheiros com nomes inválios, ou não reconhecidos pela aplicação, serão movidos para uma directoria **Unknown**.
 
+###Verificar a versão dos ficheiros War:
+
+- No menu principal, escolher a opção **CHECK VERSION (Display Files Revision)**.
 ___
 
 Developed by **toxic9**  
