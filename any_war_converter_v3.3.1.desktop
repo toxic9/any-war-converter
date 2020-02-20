@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name[en_US]=any_war_converter_v3.3.1
+Path=/home/sgomes/Downloads/Test/
+Exec=/home/sgomes/Downloads/Test/any_war_converter_v3.3.1.sh
